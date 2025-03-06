@@ -5,5 +5,5 @@
 - use flatbuffers library from npm 
 - serialize or deserialize object
 ## links
-[flatbuffers](https://flatbuffers.dev/languages/typescript/)
-[deno](https://deno.com/)
+- [flatbuffers](https://flatbuffers.dev/languages/typescript/)
+- [deno](https://deno.com/)
