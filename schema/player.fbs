@@ -1,0 +1,10 @@
+namespace game;
+
+table Player {
+    uuid: string;
+    life: int;
+}
+
+
+
+root_type Player;
